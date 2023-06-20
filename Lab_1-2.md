@@ -161,39 +161,39 @@ DRAM的功能和特點包括：<br>
 
 ### 我的電腦配置 : <br>
 
-主機名稱:             Allson
-作業系統名稱:         Microsoft Windows 10 家用版
-作業系統版本:         10.0.22621 N/A 組建 22621
-作業系統製造商:       Microsoft Corporation
-作業系統設定:         成員工作站
-作業系統組建類型:     Multiprocessor Free
-註冊的擁有者:         Windows 使用者
-系統製造商:           ASUSTeK COMPUTER INC.
-系統型號:             ProArt StudioBook W730G2T_W730G2T
-系統類型:             x64-based PC
-處理器:               已安裝 1 處理器。
+主機名稱:             Allson<br>
+作業系統名稱:         Microsoft Windows 10 家用版<br>
+作業系統版本:         10.0.22621 N/A 組建 22621<br>
+作業系統製造商:       Microsoft Corporation<br>
+作業系統設定:         成員工作站<br>
+作業系統組建類型:     Multiprocessor Free<br>
+註冊的擁有者:         Windows 使用者<br>
+系統製造商:           ASUSTeK COMPUTER INC.<br>
+系統型號:             ProArt StudioBook W730G2T_W730G2T<br>
+系統類型:             x64-based PC<br>
+處理器:               已安裝 1 處理器。<br>
                       [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2592 Mhz
-BIOS 版本:            American Megatrends Inc. W730G2T.205, 2019/12/18
-Windows 目錄:         C:\Windows
-系統目錄:             C:\Windows\system32
-開機裝置:             \Device\HarddiskVolume2
-系統地區設定:         zh-tw;中文 (台灣)
-輸入法地區設定:       zh-tw;中文 (台灣)
-時區:                 (UTC+08:00) 台北
-實體記憶體總計:       65,384 MB
-可用實體記憶體:       46,650 MB
-虛擬記憶體: 大小上限: 75,112 MB
-虛擬記憶體: 可用:     53,927 MB
-虛擬記憶體: 使用中:   21,185 MB
-分頁檔位置:           C:\pagefile.sys
-網域:                 quanta.corp
-登入伺服器:           \\QRDCDC29
+BIOS 版本:            American Megatrends Inc. W730G2T.205, 2019/12/18<br>
+Windows 目錄:         C:\Windows<br>
+系統目錄:             C:\Windows\system32<br>
+開機裝置:             \Device\HarddiskVolume2<br>
+系統地區設定:         zh-tw;中文 (台灣)<br>
+輸入法地區設定:       zh-tw;中文 (台灣)<br>
+時區:                 (UTC+08:00) 台北<br>
+實體記憶體總計:       65,384 MB<br>
+可用實體記憶體:       46,650 MB<br>
+虛擬記憶體: 大小上限: 75,112 MB<br>
+虛擬記憶體: 可用:     53,927 MB<br>
+虛擬記憶體: 使用中:   21,185 MB<br>
+分頁檔位置:           C:\pagefile.sys<br>
+網域:                 quanta.corp<br>
+登入伺服器:           \\QRDCDC29<br>
 Hotfix:               已安裝 4 Hotfix。
                       [01]: KB5022497
                       [02]: KB5012170
                       [03]: KB5026372
                       [04]: KB5025351
-網路卡:               已安裝 3 NIC。
+網路卡:               已安裝 3 NIC。<br>
                       [01]: Intel(R) Ethernet Connection (7) I219-LM
                             連線名稱:           乙太網路
                             DHCP 已啟用:          是
@@ -205,7 +205,7 @@ Hotfix:               已安裝 4 Hotfix。
                             狀態:               媒體已中斷連線
                       [03]: Bluetooth Device (Personal Area Network)
                             連線名稱:           藍牙網路連線
-                            狀態:               媒體已中斷連線
+                            狀態:               媒體已中斷連線<br>
 Hyper-V 需求:         VM 監視器模式擴充: 是
                       韌體中已啟用虛擬化: 是
                       第二層位址轉譯: 是
