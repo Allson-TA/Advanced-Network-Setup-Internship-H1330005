@@ -1,6 +1,6 @@
-# 電腦硬體配置-CPU說明 & 
+# 電腦硬體配置-CPU說明 & 本機規格說明
 
-## 1. 你會如何介紹什麼是CPU ? (e.g., INTEL i7), 你的電腦體配置為何?
+## 1. 什麼是CPU ? (e.g., INTEL i7), 你的電腦體配置為何?
 
 CPU，即中央處理器（Central Processing Unit），是計算機系統中的核心元件之一，也被稱為電腦的大腦。 以下是對CPU的簡易說明：<br>
 CPU的功能包括：<br>
@@ -20,7 +20,7 @@ CPU的性能通常通過時鐘速度（頻率）和核心數來衡量。 時鐘�
 ### 我的處理器 : Intel® Core™ i7-9750H 處理器 2.6GHz 六核心處理器，採用 Turbo Boost 技術（高達 4.5GHz）及 12MB 快取
 
 
-
+## 2. 什麼是GPU ? 你的電腦體配置為何?
 
 
 ### 顯示卡 : W730G2T NVIDIA® Quadro® T2000 4GB GDDR5 VRAM
